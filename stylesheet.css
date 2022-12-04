@@ -1,0 +1,207 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar.horizontal-menu {
+  background-color: #6495ed;
+  margin: auto;
+}
+
+.collapse.navbar-collapse {
+  display: flex;
+  justify-content: center;
+}
+
+.collapse.navbar-collapse {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.navbar-nav .nav-item.nav-link {
+  margin: 0.75rem 2rem;
+}
+
+.navbar-nav .nav-item.nav-link {
+  font-size: 1.25rem;
+  color: #fff8dc;
+}
+
+.navbar-nav .nav-item.nav-link:hover {
+  color: #b0c4de;
+}
+
+.nav-item.nav-link.chosen {
+  color: #ffdead;
+  font-weight: bold;
+}
+
+.nav-item.nav-link.chosen:hover {
+  color: #ffdead;
+}
+
+body {
+  background-color: #1e90ff;
+  color: #f5fffa;
+}
+
+.main-header {
+  margin: 1.4rem;
+  text-align: center;
+}
+
+.main-paragraph {
+  text-align: center;
+  margin: 0.75rem 1.6rem;
+  font-size: 1.15rem;
+}
+
+.pics {
+  margin: 3.6rem auto;
+  width: 650px;
+  height: 320px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: black;
+}
+
+.project-list li a {
+  color: #fff5ee;
+  text-decoration: none;
+  font-size: 1.7rem;
+}
+
+.project-list li a:hover {
+  color: #c0c0c0;
+}
+
+.project-list li p {
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.project-list li p:last-child {
+  margin-bottom: 2rem;
+}
+
+.project-list {
+  list-style-type: none;
+}
+
+.resume-para {
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.btn.btn-secondary svg {
+  width: 28px;
+  height: 28px;
+}
+
+.div-button {
+  margin: 0 auto;
+}
+
+button a {
+  color: #fff5ee;
+  text-decoration: none;
+  font-size: 1.25rem;
+}
+
+button a:hover {
+  color: #c0c0c0;
+}
+
+.email-link {
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #fff5ee;
+  margin-top: 2.5rem;
+}
+
+.email-link:hover {
+  color: #c0c0c0;
+}
+
+.email-div {
+  margin-top: 1.7rem;
+}
+
+form {
+  margin: 0 auto;
+}
+
+.form-control.name-input {
+  border: 3px solid #fff5ee;
+  width: 250px;
+}
+
+legend {
+  margin-bottom: 1.3rem;
+}
+
+label {
+  text-decoration: underline;
+}
+
+.email-label,
+.message-label {
+  margin-top: 1.75rem;
+}
+
+.text-box {
+  overflow-y: scroll;
+  height: 200px;
+  resize: none;
+}
+
+.btn-seconday.form-button {
+  margin-top: 1.6rem;
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+  padding: 0.7rem;
+}
+
+.icon-list {
+  margin: 0 auto;
+  list-style-type: none;
+}
+
+.icon-list li {
+  display: inline-block;
+}
+
+.social.linkedin img {
+  width: 40px;
+  height: 40px;
+}
+
+.social.github img {
+  width: 40px;
+  height: 40px;
+}
+
+a.social {
+  display: inline-block;
+  opacity: 0.4;
+  transition: all 0.5s;
+}
+
+a.social:hover {
+  opacity: 1;
+}
